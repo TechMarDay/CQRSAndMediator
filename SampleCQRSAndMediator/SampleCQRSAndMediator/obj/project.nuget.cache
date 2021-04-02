@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "1FclqFea30QEromZAxusBfGVN/kgmPUqagZKiTwePug8b8hAUfE4lo3KOZ35OF5JFkXCkAH2b67wLjW+ndY1xQ==",
+  "success": true,
+  "projectFilePath": "C:\\MyWorkspace\\CQRSAndMediator\\SampleCQRSAndMediator\\SampleCQRSAndMediator\\SampleCQRSAndMediator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\long.nguyendh\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
+    "C:\\Users\\long.nguyendh\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\8.1.0\\mediatr.extensions.microsoft.dependencyinjection.8.1.0.nupkg.sha512",
+    "C:\\Users\\long.nguyendh\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection.libraries\\1.0.0\\mediatr.extensions.microsoft.dependencyinjection.libraries.1.0.0.nupkg.sha512",
+    "C:\\Users\\long.nguyendh\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\long.nguyendh\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.0.0\\microsoft.extensions.dependencyinjection.abstractions.2.0.0.nupkg.sha512",
+    "C:\\Users\\long.nguyendh\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\long.nguyendh\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.13\\microsoft.visualstudio.azure.containers.tools.targets.1.10.13.nupkg.sha512",
+    "C:\\Users\\long.nguyendh\\.nuget\\packages\\swashbuckle.aspnetcore\\6.1.1\\swashbuckle.aspnetcore.6.1.1.nupkg.sha512",
+    "C:\\Users\\long.nguyendh\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.1.1\\swashbuckle.aspnetcore.swagger.6.1.1.nupkg.sha512",
+    "C:\\Users\\long.nguyendh\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.1.1\\swashbuckle.aspnetcore.swaggergen.6.1.1.nupkg.sha512",
+    "C:\\Users\\long.nguyendh\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.1.1\\swashbuckle.aspnetcore.swaggerui.6.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}
